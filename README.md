@@ -17,7 +17,7 @@ Similar Open designs and Standard wheel chair designs were inspiration to the Op
 <img src = "docs/face.JPG" width = "500">
 
 ## 3D model View
-<img src = "production files/git-hub.STL" width = "500">
+<a href= "https://github.com/ebotbesong/Open-3D-Wheel-Chair-Project/blob/main/production%20files/git-hub.STL>Click here to view 3D model</a>
 
 ## Back View
 <img src = "docs/back.JPG" width = "500">
