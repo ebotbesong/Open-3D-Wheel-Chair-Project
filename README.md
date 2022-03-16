@@ -16,6 +16,9 @@ Similar Open designs and Standard wheel chair designs were inspiration to the Op
 ## Front View
 <img src = "docs/face.JPG" width = "500">
 
+## 3D model View
+<img src = "production files/git-hub.STL" width = "500">
+
 ## Back View
 <img src = "docs/back.JPG" width = "500">
 
