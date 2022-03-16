@@ -10,16 +10,16 @@ The figure below shows the rendered image. All modeling was done in Solidworks.
 Similar Open designs and Standard wheel chair designs were inspiration to the Open Wheel Chair Project.
 
 ## Isometric View
-<img src = "docs/diag.jpg" width = "500">
+<img src = "docs/diag.JPG" width = "500">
 
 ## Front View
-<img src = "docs/face.jpg" width = "500">
+<img src = "docs/face.JPG" width = "500">
 
 ## Back View
-<img src = "docs/back.jpg" width = "500">
+<img src = "docs/back.JPG" width = "500">
 
 ## Side view
-<img src = "docs/side.jpg" width = "500">
+<img src = "docs/side.JPG" width = "500">
 
 ## Wire Frame view
-<img src = "docs/shadow.jpg" width = "500">
+<img src = "docs/shadow.JPG" width = "500">
