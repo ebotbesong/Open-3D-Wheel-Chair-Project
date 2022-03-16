@@ -13,11 +13,10 @@ Similar Open designs and Standard wheel chair designs were inspiration to the Op
 ## Isometric View
 <img src = "docs/diag.JPG" width = "500">
 
+## [Click to view 3D model in real time](https://github.com/ebotbesong/Open-3D-Wheel-Chair-Project/blob/main/production%20files/git-hub.STL)
+
 ## Front View
 <img src = "docs/face.JPG" width = "500">
-
-## 3D model View
-<a href= "https://github.com/ebotbesong/Open-3D-Wheel-Chair-Project/blob/main/production%20files/git-hub.STL>Click here to view 3D model</a>
 
 ## Back View
 <img src = "docs/back.JPG" width = "500">
