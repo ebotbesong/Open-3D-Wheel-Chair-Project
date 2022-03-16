@@ -1,5 +1,5 @@
 # Open 3D Wheelchair Project
-In most developing countries, owning a wheelchair for those in needs can be a huge luxury that is difficult to imagine. Coming from a less developed country myself, I have seen many physically challenged people finding it hard to own a wheelchair. In countries like Cameroon where the average per capital income is less 200 Dollars, buying a wheel is not a priority even though the need is inevitable and the demand is continuously increasing.
+In most developing countries, owning a wheelchair for those in need can be a huge luxury that is difficult to imagine. Coming from a less developed country myself, I have seen many physically challenged people finding it hard to own a wheelchair. In countries like Cameroon where the average per capital income is less 200 Dollars, buying a wheel is not a priority even though the need is inevitable and the demand is continuously increasing.
 
 With this in mind, I am initiating an Open 3D Wheelchair project, not just to facilitate the production process but also to make an open design available for communities. Contribution from anyone around the world is very appreciated and welcome.
 
