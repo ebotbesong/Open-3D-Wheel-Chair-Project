@@ -8,6 +8,7 @@ A rendered image is shown below. All modeling was done in Solidworks 2018. The p
 
 <img src = "docs/clean-image-edited.jpg" width = "500">
 
+The above image is the rendered model. It should be highlighted that the quality of the rendering depends on the power of the computer used 
 ## Isometric View
 <img src = "docs/diag.JPG" width = "500">
 
