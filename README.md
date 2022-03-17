@@ -25,3 +25,6 @@ The above image is the rendered model. It should be highlighted that the quality
 
 ## Wire Frame view
 <img src = "docs/shadow.JPG" width = "500">
+
+In future, I am going to add an electric motor in the wheels to make it an electric wheelchair. I am also accepting modification of the model from contributors.
+Please feel free to contact me. 
